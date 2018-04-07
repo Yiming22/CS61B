@@ -13,4 +13,5 @@ public class starTriangle
         System.out.println( "*" );
       }
    }
+	System.out.println("Done");
 }
